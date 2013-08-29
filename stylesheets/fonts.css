@@ -1,0 +1,33 @@
+@font-face {
+font-family: 'LibreBaskervilleItalic';
+src: url('../fonts/LibreBaskerville-Italic-webfont.eot');
+src: url('../fonts/LibreBaskerville-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+     url('../fonts/LibreBaskerville-Italic-webfont.woff') format('woff'),
+     url('../fonts/LibreBaskerville-Italic-webfont.ttf') format('truetype'),
+     url('../fonts/LibreBaskerville-Italic-webfont.svg#LibreBaskervilleItalic') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'proxima_nova_rgbold';
+src: url('../fonts/proximanova-bold-webfont.eot');
+src: url('../fonts/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+     url('../fonts/proximanova-bold-webfont.woff') format('woff'),
+     url('../fonts/proximanova-bold-webfont.ttf') format('truetype'),
+     url('../fonts/proximanova-bold-webfont.svg#proxima_novasemibold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'proxima_novalight';
+src: url('../fonts/proximanova-light-webfont.eot');
+src: url('../fonts/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'),
+     url('../fonts/proximanova-light-webfont.woff') format('woff'),
+     url('../fonts/proximanova-light-webfont.ttf') format('truetype'),
+     url('../fonts/proximanova-light-webfont.svg#proxima_novalight') format('svg');
+font-weight:normal;
+font-style: normal;
+}
+.proximaBold{font-family: 'proxima_nova_rgbold','Times New Roman',Arial, Helvetica, sans-serif;}
+.proximaLite{font-family: 'proxima_novalight',Arial, Helvetica, sans-serif;}
+.baskervilleItalic{font-family: 'LibreBaskervilleItalic', Serif;}

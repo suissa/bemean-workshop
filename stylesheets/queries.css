@@ -1,0 +1,176 @@
+@media only screen and (max-width : 1024px)  {
+/*#main>header>.logo{height:78px; width:88px; background:url(../images/logo-ogilvyone@2x.png) no-repeat; background-size:contain; margin:10px auto 10px auto;}*/
+#main>header>.logo{height:300px; width:329px; background:url(../images/bemean-logo.png) no-repeat; background-size:329px; margin:30px auto 30px auto;}
+
+#main{min-width:100%;}
+.mainWidth{width:90%;}
+}
+
+
+
+@media only screen and (max-width : 970px)  {
+#awwwards {display: none;}
+#main>section>h1{font-size:45px; line-height:45px; margin:0px auto 0px auto; text-transform:uppercase;}
+main>header>.video>.description{width:500px; margin-top:-150px; margin-left:-250px; text-align:center;}
+#main>header>.video>.description>h1{font-size:90px; line-height:90px; margin:0px 0px 0px 0px; letter-spacing:0.12em;}
+#main>header>.video>.description>h2{font-size:29px;line-height:29px;  margin:0px 0px 0px 0px; letter-spacing:0.08em}
+#main>header>.video>.description>.play{text-decoration:none; color:#FFF; display:block; height:70px; width:480px; margin:20px auto 20px auto;}
+#main>header>.video>.description>.play>.playIco{ display:block; width:70px; height:70px; background:url(../images/play-ico.png) center no-repeat;}
+#main>header>.video>.description>.play>.cta{ width:408px; font-size:12px;}
+#main>#whynow>.clearfix>.cul{ width:33%; margin-top:60px;}
+#main>#whynow>.clearfix>.cul>figure{ width:180px; height:180px; margin:auto; border-radius:50%; }
+#main>#howbig>.clearfix>.cul{ width:50%; margin-top:50px; height:300px;}
+#main>#howpeople>.clearfix>.cul{ width:50%; margin-top:50px; height:370px;}
+#main>#ourambition>.clearfix>.cul{ width:33%;}
+#main>#ourambition>h1{font-size:35px; line-height:38px;}
+footer { margin:0px auto 0px auto; padding-top:50px; height:300px; padding-left:0px; background:rgba(51, 51, 51, 0.9);}
+footer>.cont{width:100%; margin:auto; height:auto; margin-left:0px; margin-top:0px;}
+footer>.cont>.line, .br1{display:none;}
+footer>.trinagle {display:none;}
+footer>.cont>p{ color:#FFF; font-size:25px;}
+footer>.cont>p>a{ color:#FFF; text-decoration:none; font-size:45px;}
+footer>.cont>.social{width:271px; margin:auto;}
+footer>.cont>.social>.fb{ overflow:hidden; width:84px; padding-right:20px;}
+footer>.cont>.social>.tw{ overflow:hidden; width:87px;  padding-right:20px;}
+footer>.cont>.social>.g{ overflow:hidden; width:60px;}
+.sectionPadding{padding-top:40px; padding-bottom:30px;}
+#main>#ourambition{padding-top:40px;}
+#main>#ourambition>.clearfix>.cul{ width:50%;}
+#main>#ourambition>.clearfix>.center{ height:484px;}
+#main>#ourambition>.clearfix>.cul .verticalLine{ visibility:hidden; display:none;}
+#main>#ourambition .diamond{background:#FFF; overflow:hidden; height:150px; width:150px; transform:rotate(45deg); -ms-transform:rotate(45deg); -webkit-transform:rotate(45deg); -moz-transform:rotate(45deg); margin:60px auto 0px auto;}
+#main>#ourambition .diamond>img{transform:rotate(-45deg); -ms-transform:rotate(-45deg); -webkit-transform:rotate(-45deg); -moz-transform:rotate(-45deg); margin-top:-78%; margin-left:-78%; width:160%; height:160%;}
+#main>#ourambition>.clearfix>.cul>.space{ height:20px;}
+#main>#ourambition>.clearfix>.cul>h2{ font-size:16px; text-transform:uppercase; color:rgb(228, 134, 50); letter-spacing:0.2em; margin-top:60px;}
+#main>#ourambition>.clearfix>.cul>.line{ margin:20px auto 20px auto; width:50px; height:1px; background:rgb(228, 134, 50) url(../images/bg-redline.png);}
+#main>#ourambition>.clearfix>.cul>p{ font-size:14px; line-height:22px; width:235px; margin:20px auto 0px auto;}
+}
+
+
+
+
+@media only screen and (max-height : 750px)  {
+#main>header>.logo{height:300px; width:329px; background:url(../images/bemean-logo.png) no-repeat; background-size:329px; margin:30px auto 30px auto;}
+#main>header>.video>.description{width:500px; margin-top:-150px; margin-left:-250px; text-align:center;}
+#main>header>.video>.description>h1{font-size:90px; line-height:90px; margin:0px 0px 0px 0px; letter-spacing:0.12em;}
+#main>header>.video>.description>h2{font-size:29px;line-height:29px;  margin:0px 0px 0px 0px; letter-spacing:0.08em}
+#main>header>.video>.description>.play{text-decoration:none; color:#FFF; display:block; height:70px; width:480px; margin:20px auto 20px auto;}
+#main>header>.video>.description>.play>.playIco{ display:block; width:70px; height:70px; background:url(../images/play-ico.png) center no-repeat; border-right:solid 1px #f86c6f;}
+#main>header>.video>.description>.play>.cta{ width:100% !important; font-size:12px;margin:auto; }
+}
+
+
+@media only screen and (max-width : 650px)  {
+.mainWidth{ width:80%;}
+#main>header>.logo{height:300px; width:329px; background:url(../images/bemean-logo.png) no-repeat; background-size:329px; margin:30px auto 30px auto;}
+#main>.number>div{ margin:250px auto 0px auto; width:42px; height:41px; background:url(../images/bg-numbers.png) no-repeat; font-size:12px; line-height:41px; overflow:hidden; padding-left:1px; text-align:center; color:rgb(228, 134, 50); }
+#main>section strong{ color:rgb(228, 134, 50); font-family: 'proxima_nova_rgbold','Times New Roman',Arial, Helvetica, sans-serif;}
+#main>section>h1{font-size:30px; line-height:30px; margin:0px auto 10px auto; text-transform:uppercase;}
+#main>.scroll1{ width:194px; height:90px; margin:8px auto 8px auto; padding:30px auto 30px auto; background:#FFF;}
+#main>header>.video{width:100%; height:280px;}
+#main>header>.video>.description{width:300px; height:230px; margin-top:-115px; margin-left:-150px; text-align:center;}
+#main>header>.video>.description>h1{font-size:50px; line-height:50px;}
+#main>header>.video>.description>h2{font-size:16px;line-height:16px; margin:8px 0px 0px 0px; font-family: 'proxima_nova_rgbold','Times New Roman',Arial, Helvetica, sans-serif;}
+#main>header>.video>.description>h3{ margin:0px 0px 0px 0px; overflow:hidden; height:20px;}
+#main>header>.video>.description>.play{ width:70px; margin:20px auto 0px auto; border-radius:70px;}
+#main>header>.video>.description>.play>.playIco{ display:block; width:69x; height:70px; border-radius:70px; background:url(../images/play-ico.png) center no-repeat; border:solid 0px;}
+#main>header>.video>.description>.play>.cta{ visibility:hidden; display:none;}
+#main>header>.video>.description>.share{ width:275px; position:absolute; bottom:0px; left:15px;}
+#main>header>.video>.description>.share>h3{ display:block; width:100px;  margin:auto; float:left; border-left:solid 1px #FFF;}
+#main>header>.video>.description>.share>h3>.title{font-size:12px; letter-spacing:0.4em; font-family: 'proxima_nova_rgbold','Times New Roman',Arial, Helvetica, sans-serif; text-transform:uppercase;}
+#main>header>.video>.description>.share>h3>.line{visibility:hidden;}
+#main>header>.video>.description>.share>ul{ width:180px; float:left; margin-top:0px; border-left:solid 1px #FFF; border-right:solid 1px #FFF;}
+#main>header>.video>.description>.share>ul>li{width:24%;}
+#main>header>.video>.description>.share>ul>li>a{margin:auto;}
+#main>#whatisbigdata{ width:90%; margin:auto; padding-top:30px; padding-bottom:15px; background:#FFF;}
+#main>#whatisbigdata>p{ font-size:18px; margin:20px auto 0px auto;}
+#main>#whatisbigdata br{display:none;}
+#main>#whynow{margin:auto; padding-top:30px; padding-bottom:30px; background:#FFF;}
+#main>#whynow br{display:none;}
+#main>#whynow>.clearfix>.cul{ width:100%; margin-top:20px;}
+#main>#whynow>.clearfix>.cul>figure{ width:230px; height:230px; margin:auto; border-radius:50%; }
+#main>#whynow>.clearfix>.cul>h2{ font-size:14px; text-transform:uppercase; color:rgb(228, 134, 50); letter-spacing:0.2em; margin-top:20px;}
+#main>#whynow>.clearfix>.cul>.line{ margin:20px auto 20px auto; width:50px; height:1px; background:rgb(228, 134, 50) url(../images/bg-redline.png);}
+#main>#whynow>.clearfix>.cul>p{ font-size:14px; line-height:22px; width:80%; margin:auto;}
+#main>#howbig{margin:auto; padding-top:30px; padding-bottom:30px; background:#FFF;}
+#main>#howbig>.clearfix>.cul{ width:100%; margin-top:30px; height:auto;}
+#main>#howbig>.clearfix>.cul>p{ font-size:14px; line-height:22px; width:80%; margin:20px auto 0px auto;}
+#main>#howpeople{margin:auto; padding-top:30px; padding-bottom:30px; background:#FFF;}
+#main>#howpeople>.clearfix>.cul{ width:100%; margin-top:0px; height:auto;}
+#main>#howpeople>.clearfix>.cul>h2{ font-size:16px; text-transform:uppercase; color:rgb(228, 134, 50); letter-spacing:0.2em; margin-top:0px;}
+#main>#howpeople>.clearfix>.cul>.line{ margin:20px auto 20px auto; width:50px; height:1px; background:rgb(228, 134, 50) url(../images/bg-redline.png);}
+#main>#howpeople>.clearfix>.cul>p{ font-size:14px; line-height:22px; width:80%; margin:20px auto 0px auto;}
+#main>#ourambition{margin:auto; padding-top:30px; padding-bottom:0px; background:#FFF;}
+#main>#ourambition>h1{ font-size:20px; line-height:26px; margin-bottom:60px;}
+#main>#ourambition br{display:none;}
+#main>#ourambition>.clearfix>.cul{ width:100%; height:auto;}
+#main>#ourambition>.clearfix>.cul>.verticalLine{display:none; visibility:hidden;}
+#main>#ourambition>.clearfix>.center>.verticalLine{display:none; visibility:hidden;}
+#main>#ourambition>.clearfix>.center{ height:auto;}
+#main>#ourambition .diamond>img{transform:rotate(-45deg); -ms-transform:rotate(-45deg); -webkit-transform:rotate(-45deg); -moz-transform:rotate(-45deg); margin-top:-78%; margin-left:-78%;}
+#main>#ourambition>.clearfix>.cul>.space{ height:0px;}
+#main>#ourambition>.clearfix>.cul>h2{ font-size:16px; text-transform:uppercase; color:rgb(228, 134, 50); letter-spacing:0.2em; margin-top:60px;}
+#main>#ourambition>.clearfix>.cul>.line{ margin:20px auto 20px auto; width:50px; height:1px; background:rgb(228, 134, 50) url(../images/bg-redline.png);}
+#main>#ourambition>.clearfix>.cul>p{ font-size:14px; line-height:22px; width:80%; margin:20px auto 60px auto;}
+#main>#ourambition .diamond{ margin:0px auto 0px auto;}
+footer>.cont>p{ width:85%; margin-left:auto; margin-right:auto;}
+
+
+@media only screen and (max-width : 500px)  {
+.pagination{ visibility:hidden; display:none;}
+footer>.cont>p>a{ color:#FFF; text-decoration:none; font-size:36px;}
+}
+@media print,
+   (-o-min-device-pixel-ratio: 5/4),
+   (-webkit-min-device-pixel-ratio: 1.25),
+   (min-resolution: 120dpi) {
+#main>.number>div{background:#E48632; width:42px; background-size:42px;}
+#main>#whynow>.clearfix>.cul>.img01{ background:#E48632; background-size:contain;}
+#main>#whynow>.clearfix>.cul>.img02{ background:#E48632; background-size:contain;}
+#main>#whynow>.clearfix>.cul>.img03{ background:#E48632; background-size:contain;}
+
+
+
+@media print {
+* {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+a,a:visited {
+    text-decoration: underline;
+}
+a[href]:after {
+    content: " (" attr(href) ")";
+}
+abbr[title]:after {
+    content: " (" attr(title) ")";
+}
+.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after {
+    content: "";
+}
+pre,blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+}
+thead {
+    display: table-header-group;
+}
+tr,img {
+    page-break-inside: avoid;
+}
+img {
+    max-width: 100% !important;
+}
+@page {
+    margin: 0.5cm;
+}
+p,h2,h3 {
+    orphans: 3;
+    widows: 3;
+}
+h2,h3 {
+    page-break-after: avoid;
+}
+}
